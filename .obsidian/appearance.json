@@ -1,0 +1,10 @@
+{
+  "accentColor": "#d874b8",
+  "baseFontSize": 14,
+  "showViewHeader": true,
+  "showRibbon": true,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "css"
+  ]
+}

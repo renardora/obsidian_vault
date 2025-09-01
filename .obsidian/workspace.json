@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "66e0d5d29a2ec4e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "84702af5429d315e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "234aadcbbfe2c4c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "daa017f54104d4b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "74d30ba526e3025c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9058c89d1d65e1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "1cb05af8c9c09eef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:jcyjds",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "2be7c45ba3fcc768",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "811eecc800723c69",
+    "type": "split",
+    "children": [
+      {
+        "id": "01fcf414f5434637",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec753fce95ecb74b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Добро пожаловать"
+            }
+          },
+          {
+            "id": "184baf118b5765c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Добро пожаловать"
+            }
+          },
+          {
+            "id": "b1e3d260f3318163",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "638816d331079cff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "02a3f1adad21be98",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "6d381bc0f9fac1c8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "194ed8a2ebb6531a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "82d86a89bde949fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "Свойства файла"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "workspaces:Пространства": false,
+      "publish:Публикация изменений": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6d381bc0f9fac1c8",
+  "lastOpenFiles": [
+    "ЕБЗ по тестированию/1. ЕБЗ по тестированию.md",
+    "ЕБЗ по тестированию/2. представление ЕБЗ - галерея.canvas",
+    "ЕБЗ по тестированию/Системная и программная инженерия — Требования к качеству продукта.md",
+    "ЕБЗ по тестированию/стандарты тестирования.md",
+    "ЕБЗ по тестированию/Стандарт для документации по тестированию программного и системного обеспечения.md",
+    "ЕБЗ по тестированию/архитектура и API.md",
+    "ЕБЗ по тестированию/Без названия.base",
+    "ISO",
+    "ЕБЗ по тестированию/курс по тестированию ПО.md",
+    "ЕБЗ по тестированию/курс по подготовке к сертификации ISTQB.md",
+    "ЕБЗ по тестированию/курс по веб-тестированию.md",
+    "ЕБЗ по тестированию",
+    "Без названия 1.base",
+    "создайте ссылку.md",
+    "01.09.25.md"
+  ]
+}

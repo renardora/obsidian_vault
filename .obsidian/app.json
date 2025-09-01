@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./вложенные файлы",
+  "showInlineTitle": true,
+  "useMarkdownLinks": true,
+  "propertiesInDocument": "hidden",
+  "newFileLocation": "current"
+}
