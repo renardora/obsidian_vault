@@ -25,12 +25,12 @@
     },
     {
       "id": "editing-toolbar:header2-text",
-      "name": "Header 2",
+      "name": "Header 3",
       "icon": "header-3"
     },
     {
       "id": "editing-toolbar:header3-text",
-      "name": "Header 3",
+      "name": "Header 4",
       "icon": "header-4"
     },
     {

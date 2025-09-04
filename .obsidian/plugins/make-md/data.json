@@ -41,7 +41,8 @@
     "/",
     "//notes",
     "//ЕБЗ по тестированию",
-    "//находки"
+    "//находки",
+    "//записьки"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

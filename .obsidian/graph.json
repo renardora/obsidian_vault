@@ -8,24 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "section:(not started)",
+      "query": "file:1.",
       "color": {
         "a": 1,
-        "rgb": 14091268
+        "rgb": 16777215
       }
     },
     {
-      "query": "section:(in progress)",
+      "query": "path:\"ЕБЗ по тестированию\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 11572678
       }
     },
     {
-      "query": "section:(done)",
+      "query": "path:записьки  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14257337
       }
     }
   ],
@@ -36,7 +36,7 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.202551061596835,
-  "repelStrength": 10,
+  "repelStrength": 7.65881513204854,
   "linkStrength": 1,
   "linkDistance": 251,
   "scale": 0.2275126960273702,

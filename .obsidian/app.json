@@ -5,5 +5,6 @@
   "showInlineTitle": true,
   "useMarkdownLinks": true,
   "propertiesInDocument": "hidden",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "spellcheck": false
 }

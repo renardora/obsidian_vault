@@ -1,97 +1,91 @@
 {
   "main": {
-    "id": "66e0d5d29a2ec4e3",
+    "id": "43951a665275e0d2",
     "type": "split",
     "children": [
       {
-        "id": "854f13b2d5257d39",
-        "type": "split",
+        "id": "7a70450b14b21949",
+        "type": "tabs",
+        "dimension": 76.57760090960774,
         "children": [
           {
-            "id": "a1ccdfe96ed98390",
-            "type": "tabs",
-            "dimension": 74.58386683738797,
-            "children": [
-              {
-                "id": "3089f8ce332d264a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ЕБЗ по тестированию/стандарты тестирования.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "стандарты тестирования"
-                }
-              }
-            ]
-          },
-          {
-            "id": "e6b30dfcd8451842",
-            "type": "split",
-            "dimension": 25.416133162612038,
-            "children": [
-              {
-                "id": "accbfb52874a9544",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "194ed8a2ebb6531a",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "calendar",
-                      "state": {},
-                      "pinned": true,
-                      "icon": "calendar-with-checkmark",
-                      "title": "Calendar"
-                    },
-                    "group": "fe63380fe6be270b"
-                  }
-                ]
+            "id": "f823a60d7106ad2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "записьки/сегодня.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
+              "icon": "lucide-file",
+              "title": "сегодня"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c8bf38f53950dd07",
+        "type": "split",
+        "dimension": 23.42239909039227,
+        "children": [
+          {
+            "id": "a113c92e8e81880f",
+            "type": "tabs",
+            "children": [
               {
-                "id": "260ae8073f64ffcb",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "758807a29c4c8c17",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "graph",
-                      "state": {},
-                      "pinned": true,
-                      "icon": "lucide-git-fork",
-                      "title": "Граф"
-                    },
-                    "group": "fe63380fe6be270b"
-                  }
-                ]
+                "id": "eaf8ba1779afac1f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Граф"
+                },
+                "group": "13951d0791d7ac9d"
               }
             ],
-            "direction": "horizontal"
+            "stacked": true
+          },
+          {
+            "id": "d74e39ffc49c83ce",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bd310e8e405c68c9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                },
+                "group": "13951d0791d7ac9d"
+              }
+            ],
+            "stacked": true
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "daa017f54104d4b8",
+    "id": "de8391533972ab78",
     "type": "split",
     "children": [
       {
-        "id": "74d30ba526e3025c",
+        "id": "642a79a8e0df0842",
         "type": "tabs",
-        "dimension": 57.06967213114754,
         "children": [
           {
-            "id": "a0947feb4ca5d131",
+            "id": "639c814a6d7ad684",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -104,12 +98,12 @@
             }
           },
           {
-            "id": "1cb05af8c9c09eef",
+            "id": "0ceeb23b537bcdb5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#основы",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +115,7 @@
             }
           },
           {
-            "id": "2be7c45ba3fcc768",
+            "id": "2f87d9315b687e9d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -131,7 +125,7 @@
             }
           },
           {
-            "id": "3a0a965a8d12f053",
+            "id": "5596690e9f228336",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -139,87 +133,64 @@
               "icon": "layout-grid",
               "title": "Navigator"
             }
-          },
-          {
-            "id": "6d381bc0f9fac1c8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
-        "id": "263cc045c7108c0d",
+        "id": "a4be8c28d9c13741",
         "type": "tabs",
-        "dimension": 42.93032786885246,
         "children": [
           {
-            "id": "638816d331079cff",
+            "id": "9fe7048907c794e7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ЕБЗ по тестированию/стандарты тестирования.md",
+                "file": "записьки/сегодня.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура стандарты тестирования"
+              "title": "Структура сегодня"
             }
           },
           {
-            "id": "82d86a89bde949fa",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "ЕБЗ по тестированию/стандарты тестирования.md"
-              },
-              "icon": "lucide-info",
-              "title": "Свойства файла для стандарты тестирования"
-            }
-          },
-          {
-            "id": "69c58a28e152e17d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "ЕБЗ по тестированию/стандарты тестирования.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из стандарты тестирования"
-            }
-          },
-          {
-            "id": "a49fbf14dd2ca434",
+            "id": "15527dc0abef03bc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ЕБЗ по тестированию/стандарты тестирования.md",
+                "file": "записьки/сегодня.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для стандарты тестирования"
+              "title": "Обратные ссылки для сегодня"
             }
           },
           {
-            "id": "b1e3d260f3318163",
+            "id": "02a20078ceca8a3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "записьки/сегодня.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из сегодня"
+            }
+          },
+          {
+            "id": "b3feddc8fe8e6278",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -240,48 +211,78 @@
     "width": 300
   },
   "right": {
-    "id": "811eecc800723c69",
+    "id": "b85ae6441690275c",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "6c877caebc3eaca0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "978982ecf72f4721",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "workspaces:Пространства": false,
+      "publish:Публикация изменений": false,
       "graph:Граф": false,
-      "obsidian-git:Open Git source control": true,
-      "publish:Публикация изменений": true,
       "canvas:Создать новый холст": false,
-      "markdown-importer:Импорт Markdown-файлов": true,
-      "workspaces:Пространства": true,
       "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d381bc0f9fac1c8",
+  "active": "f823a60d7106ad2a",
   "lastOpenFiles": [
+    "записьки/сегодня.md",
+    "записьки/1. записьки.md",
+    "записьки/работа.md",
+    "записьки/жизнь.md",
+    "ЕБЗ по тестированию/1. ЕБЗ по тестированию.md",
+    "находки/1. находки.md",
+    "находки/информационные ресурсы.md",
+    "ЕБЗ по тестированию/архитектура и API.md",
     "ЕБЗ по тестированию/Системная и программная инженерия — Требования к качеству продукта.md",
     "ЕБЗ по тестированию/стандарты тестирования.md",
-    "ЕБЗ по тестированию/курс по тестированию ПО.md",
     "ЕБЗ по тестированию/курс по веб-тестированию.md",
-    "ЕБЗ по тестированию/архитектура и API.md",
-    "ЕБЗ по тестированию/1. ЕБЗ по тестированию.md",
-    "ЕБЗ по тестированию/ЕБЗ по тестированию.md",
-    "ЕБЗ по тестированию/курс по подготовке к сертификации ISTQB.md",
-    "ЕБЗ по тестированию/Стандарт для документации по тестированию программного и системного обеспечения.md",
-    "ЕБЗ по тестированию/2. представление ЕБЗ - галерея.canvas",
-    "notes/главное.md",
-    "находки/1. находки.md",
     "Tags",
-    "находки/информационные ресурсы.md",
     "находки",
-    "notes",
-    "01.09.25.md",
-    "ЕБЗ по тестированию/Без названия.base",
-    "ISO",
+    "ЕБЗ по тестированию/Стандарт для документации по тестированию программного и системного обеспечения.md",
+    "ЕБЗ по тестированию/курс по тестированию ПО.md",
+    "ЕБЗ по тестированию/курс по подготовке к сертификации ISTQB.md",
+    "ЕБЗ по тестированию/2. представление ЕБЗ - галерея.canvas",
     "ЕБЗ по тестированию",
-    "Без названия 1.base",
-    "создайте ссылку.md"
+    "записьки",
+    "obsidian_vault/находки/информационные ресурсы.md",
+    "obsidian_vault/находки/1. находки.md",
+    "obsidian_vault/ЕБЗ по тестированию/стандарты тестирования.md",
+    "obsidian_vault/ЕБЗ по тестированию/Стандарт для документации по тестированию программного и системного обеспечения.md",
+    "obsidian_vault/ЕБЗ по тестированию/Системная и программная инженерия — Требования к качеству продукта.md",
+    "obsidian_vault/ЕБЗ по тестированию/курс по подготовке к сертификации ISTQB.md",
+    "obsidian_vault/ЕБЗ по тестированию/курс по тестированию ПО.md",
+    "obsidian_vault/ЕБЗ по тестированию/курс по веб-тестированию.md",
+    "obsidian_vault/ЕБЗ по тестированию/архитектура и API.md",
+    "obsidian_vault/ЕБЗ по тестированию/2. представление ЕБЗ - галерея.canvas",
+    "obsidian_vault/ЕБЗ по тестированию/1. ЕБЗ по тестированию.md",
+    "obsidian_vault/notes/главное.md",
+    "obsidian_vault/находки",
+    "obsidian_vault/ЕБЗ по тестированию",
+    "obsidian_vault/notes",
+    "obsidian_vault",
+    "Добро пожаловать.md"
   ]
 }

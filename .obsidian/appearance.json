@@ -3,9 +3,9 @@
   "baseFontSize": 16,
   "showViewHeader": true,
   "showRibbon": true,
-  "cssTheme": "Minimal",
-  "enabledCssSnippets": [
-    "css"
-  ],
-  "baseFontSizeAction": true
+  "cssTheme": "",
+  "enabledCssSnippets": [],
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": ""
 }

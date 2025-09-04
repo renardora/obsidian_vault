@@ -3,11 +3,6 @@
   "sanctum@@color-accent-rgb-l": "246, 141, 69",
   "sanctum@@color-accent-rgb-d": "236, 90, 118",
   "sanctum@@file-line-width": 50,
-  "minimal-advanced@@hide-markdown": false,
-  "minimal-advanced@@hide-settings-desc": false,
-  "minimal-advanced@@cursor": "default",
-  "minimal-advanced@@font-ui-small": 14,
-  "minimal-advanced@@font-ui-smaller": 12,
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-lavender",
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
@@ -53,8 +48,6 @@
   "Appearance-dark@@on-border-dark": "#792245",
   "Appearance-dark@@card-border-radius-dark": "10px",
   "Appearance-dark@@color-to-tab-icon-dark": false,
-  "minimal-style@@bases-toolbar-opacity": 0.7,
-  "minimal-style@@window-title-off": false,
-  "minimal-cards-style@@cards-min-width": "180px",
-  "minimal-cards-style@@cards-max-width": "1fr"
+  "minimal-advanced@@font-ui-small": 16,
+  "minimal-advanced@@font-ui-smaller": 12
 }
