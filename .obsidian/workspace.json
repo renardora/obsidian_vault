@@ -4,20 +4,88 @@
     "type": "split",
     "children": [
       {
-        "id": "c18ac52c4cb68c92",
-        "type": "tabs",
+        "id": "e846116257f253e8",
+        "type": "split",
         "children": [
           {
-            "id": "cff7faa7b46e6e82",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
+            "id": "94086ea16a522b0e",
+            "type": "tabs",
+            "dimension": 63.82636655948553,
+            "children": [
+              {
+                "id": "cff7faa7b46e6e82",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "записьки/сегодня.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "сегодня"
+                }
+              },
+              {
+                "id": "6862b8717c45fab3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "записьки/работа.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "работа"
+                }
+              }
+            ]
+          },
+          {
+            "id": "70373b52277b1b82",
+            "type": "split",
+            "dimension": 36.17363344051447,
+            "children": [
+              {
+                "id": "b148b6c831593b50",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "202806928c10ace8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "Граф"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "39f8da512a99e098",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "e8220edaa301566d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "calendar",
+                      "state": {},
+                      "icon": "calendar-with-checkmark",
+                      "title": "Calendar"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -95,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ЕБЗ по тестированию/Стандарт для документации по тестированию программного и системного обеспечения.md",
+                "file": "записьки/сегодня.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Стандарт для документации по тестированию программного и системного обеспечения"
+              "title": "Структура сегодня"
             }
           },
           {
@@ -164,8 +232,7 @@
               "title": "Теги"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,9 +278,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Граф": false,
       "obsidian-git:Open Git source control": true,
       "publish:Публикация изменений": true,
+      "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "markdown-importer:Импорт Markdown-файлов": true,
       "workspaces:Пространства": true,
@@ -223,14 +290,17 @@
   },
   "active": "cff7faa7b46e6e82",
   "lastOpenFiles": [
+    "записьки/вложенные файлы/IMG_0155.mp4",
+    "записьки/вложенные файлы",
+    "записьки/работа.md",
+    "записьки/сегодня.md",
+    "2025-09-12.md",
+    "ЕБЗ по тестированию/курс по тестированию ПО.md",
     "ЕБЗ по тестированию/1. ЕБЗ по тестированию.md",
     "ЕБЗ по тестированию/видео-курс Тестирование ПО.md",
     "записьки/1. записьки.md",
-    "записьки/сегодня.md",
-    "записьки/работа.md",
     "Tags",
     "находки/информационные ресурсы.md",
-    "ЕБЗ по тестированию/курс по тестированию ПО.md",
     "ЕБЗ по тестированию/Стандарт для документации по тестированию программного и системного обеспечения.md",
     "ЕБЗ по тестированию/стандарты тестирования.md",
     "ЕБЗ по тестированию/Системная и программная инженерия — Требования к качеству продукта.md",
