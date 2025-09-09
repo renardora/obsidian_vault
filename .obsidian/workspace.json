@@ -4,79 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "854f13b2d5257d39",
-        "type": "split",
+        "id": "c18ac52c4cb68c92",
+        "type": "tabs",
         "children": [
           {
-            "id": "a1ccdfe96ed98390",
-            "type": "tabs",
-            "dimension": 74.58386683738797,
-            "children": [
-              {
-                "id": "3089f8ce332d264a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "записьки/работа.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "работа"
-                }
-              }
-            ]
-          },
-          {
-            "id": "e6b30dfcd8451842",
-            "type": "split",
-            "dimension": 25.416133162612038,
-            "children": [
-              {
-                "id": "accbfb52874a9544",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "194ed8a2ebb6531a",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "calendar",
-                      "state": {},
-                      "pinned": true,
-                      "icon": "calendar-with-checkmark",
-                      "title": "Calendar"
-                    },
-                    "group": "fe63380fe6be270b"
-                  }
-                ]
-              },
-              {
-                "id": "260ae8073f64ffcb",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "758807a29c4c8c17",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "graph",
-                      "state": {},
-                      "pinned": true,
-                      "icon": "lucide-git-fork",
-                      "title": "Граф"
-                    },
-                    "group": "fe63380fe6be270b"
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
+            "id": "cff7faa7b46e6e82",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +72,7 @@
             }
           },
           {
-            "id": "dadc4786a2c20ee6",
+            "id": "736c2e4026893a4c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -280,9 +221,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3089f8ce332d264a",
+  "active": "cff7faa7b46e6e82",
   "lastOpenFiles": [
+    "ЕБЗ по тестированию/1. ЕБЗ по тестированию.md",
     "ЕБЗ по тестированию/видео-курс Тестирование ПО.md",
+    "записьки/1. записьки.md",
+    "записьки/сегодня.md",
+    "записьки/работа.md",
+    "Tags",
     "находки/информационные ресурсы.md",
     "ЕБЗ по тестированию/курс по тестированию ПО.md",
     "ЕБЗ по тестированию/Стандарт для документации по тестированию программного и системного обеспечения.md",
@@ -291,17 +237,12 @@
     "ЕБЗ по тестированию/курс по веб-тестированию.md",
     "ЕБЗ по тестированию/2. представление ЕБЗ - галерея.canvas",
     "ЕБЗ по тестированию/архитектура и API.md",
-    "ЕБЗ по тестированию/1. ЕБЗ по тестированию.md",
     "notes/главное.md",
-    "записьки/работа.md",
-    "записьки/сегодня.md",
     "записьки/жизнь.md",
-    "записьки/1. записьки.md",
     "записьки",
     "ЕБЗ по тестированию/ЕБЗ по тестированию.md",
     "ЕБЗ по тестированию/курс по подготовке к сертификации ISTQB.md",
     "находки/1. находки.md",
-    "Tags",
     "находки",
     "notes",
     "01.09.25.md",
