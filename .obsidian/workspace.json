@@ -10,7 +10,7 @@
           {
             "id": "94086ea16a522b0e",
             "type": "tabs",
-            "dimension": 63.82636655948553,
+            "dimension": 68.21576763485477,
             "children": [
               {
                 "id": "cff7faa7b46e6e82",
@@ -34,7 +34,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "записьки/работа.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false,
                     "backlinks": false
                   },
@@ -42,12 +42,13 @@
                   "title": "работа"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "70373b52277b1b82",
             "type": "split",
-            "dimension": 36.17363344051447,
+            "dimension": 31.784232365145225,
             "children": [
               {
                 "id": "b148b6c831593b50",
@@ -140,7 +141,7 @@
             }
           },
           {
-            "id": "736c2e4026893a4c",
+            "id": "455b8bd641503ad6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -163,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "записьки/сегодня.md",
+                "file": "записьки/работа.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура сегодня"
+              "title": "Структура работа"
             }
           },
           {
@@ -288,12 +289,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cff7faa7b46e6e82",
+  "active": "6862b8717c45fab3",
   "lastOpenFiles": [
+    "записьки/сегодня.md",
+    "записьки/работа.md",
     "записьки/вложенные файлы/IMG_0155.mp4",
     "записьки/вложенные файлы",
-    "записьки/работа.md",
-    "записьки/сегодня.md",
     "2025-09-12.md",
     "ЕБЗ по тестированию/курс по тестированию ПО.md",
     "ЕБЗ по тестированию/1. ЕБЗ по тестированию.md",
