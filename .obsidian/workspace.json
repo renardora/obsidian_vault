@@ -28,13 +28,13 @@
                 }
               },
               {
-                "id": "6862b8717c45fab3",
+                "id": "cf031fb0b63a1dc8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "записьки/работа.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
@@ -42,8 +42,7 @@
                   "title": "работа"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "70373b52277b1b82",
@@ -141,7 +140,7 @@
             }
           },
           {
-            "id": "455b8bd641503ad6",
+            "id": "7f7a956e6a823581",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -164,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "записьки/работа.md",
+                "file": "записьки/сегодня.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура работа"
+              "title": "Структура сегодня"
             }
           },
           {
@@ -289,10 +288,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6862b8717c45fab3",
+  "active": "cff7faa7b46e6e82",
   "lastOpenFiles": [
-    "записьки/сегодня.md",
     "записьки/работа.md",
+    "записьки/сегодня.md",
     "записьки/вложенные файлы/IMG_0155.mp4",
     "записьки/вложенные файлы",
     "2025-09-12.md",
