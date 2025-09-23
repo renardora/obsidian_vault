@@ -28,22 +28,7 @@
                 }
               },
               {
-                "id": "cf031fb0b63a1dc8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "записьки/тест-кейсы рефералка.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "тест-кейсы рефералка"
-                }
-              },
-              {
-                "id": "8f60b7a03113d688",
+                "id": "3eb27cf55f97e017",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -57,8 +42,7 @@
                   "title": "работа"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "70373b52277b1b82",
@@ -156,7 +140,7 @@
             }
           },
           {
-            "id": "ffd32fe24fd75581",
+            "id": "d220888d3c516c61",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -179,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "записьки/работа.md",
+                "file": "записьки/сегодня.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура работа"
+              "title": "Структура сегодня"
             }
           },
           {
@@ -304,11 +288,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f60b7a03113d688",
+  "active": "cff7faa7b46e6e82",
   "lastOpenFiles": [
-    "записьки/тест-кейсы рефералка.md",
     "записьки/работа.md",
     "записьки/сегодня.md",
+    "записьки/тест-кейсы рефералка.md",
     "записьки/вложенные файлы/Pasted image 20250922115902.png",
     "записьки/жизнь.md",
     "записьки/вложенные файлы/IMG_0155.mp4",
