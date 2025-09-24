@@ -34,7 +34,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "записьки/работа.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false,
                     "backlinks": false
                   },
@@ -140,7 +140,7 @@
             }
           },
           {
-            "id": "d220888d3c516c61",
+            "id": "32ba3bb3bb120cfd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
