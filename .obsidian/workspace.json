@@ -125,7 +125,7 @@
             }
           },
           {
-            "id": "fd8b2b889d270aec",
+            "id": "4fbac0a03c8b029b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -148,13 +148,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "записьки/работа.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура работа"
+              "title": "Структура"
             }
           },
           {
@@ -259,7 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,14 +272,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f86c1c35c742264a",
+  "active": "758807a29c4c8c17",
   "lastOpenFiles": [
+    "записьки/работа.md",
     "записьки/1. записьки.md",
     "пет проект/пет проект.md",
     "пет проект/1. пет проект.md",
     "пет проект/тз.md",
     "ЕБЗ по тестированию/1. ЕБЗ по тестированию.md",
-    "записьки/работа.md",
     "записьки/сегодня.md",
     "записьки/тестирование лимитов.md",
     "пет проект",
