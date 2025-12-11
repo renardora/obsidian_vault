@@ -10,7 +10,7 @@
           {
             "id": "5b4f583c678c1507",
             "type": "tabs",
-            "dimension": 79.40619077700569,
+            "dimension": 78.78625134264232,
             "children": [
               {
                 "id": "f86c1c35c742264a",
@@ -32,7 +32,7 @@
           {
             "id": "9a97ff980f9bda44",
             "type": "split",
-            "dimension": 20.59380922299432,
+            "dimension": 21.21374865735768,
             "children": [
               {
                 "id": "ad383d6a0d19a841",
@@ -125,7 +125,7 @@
             }
           },
           {
-            "id": "261cb384ab6488ca",
+            "id": "d7e8d3be3ace424c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -148,12 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "записьки/Тестирование SERP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Тестирование SERP"
             }
           },
           {
@@ -220,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5065116882324,
-    "collapsed": true
+    "width": 310.5065116882324
   },
   "right": {
     "id": "811eecc800723c69",
@@ -275,9 +275,9 @@
   },
   "active": "f86c1c35c742264a",
   "lastOpenFiles": [
+    "записьки/Тестирование SERP.md",
     "записьки/вложенные файлы/Pasted image 20251210124804.png",
     "записьки/работа.md",
-    "записьки/Тестирование SERP.md",
     "Тестирование SERP.md",
     "записьки/тестирование дороничи.md",
     "вложенные файлы/МОДУЛЬ 7. Каталог и поиск.md",
