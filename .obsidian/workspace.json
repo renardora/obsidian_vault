@@ -32,7 +32,7 @@
           {
             "id": "9a97ff980f9bda44",
             "type": "split",
-            "dimension": 21.21374865735768,
+            "dimension": 21.213748657357677,
             "children": [
               {
                 "id": "ad383d6a0d19a841",
@@ -125,7 +125,7 @@
             }
           },
           {
-            "id": "d7e8d3be3ace424c",
+            "id": "e9ececcee72cbb8c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
