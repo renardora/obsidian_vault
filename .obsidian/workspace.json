@@ -18,13 +18,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "записьки/Тестирование SERP.md",
+                    "file": "записьки/работа.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Тестирование SERP"
+                  "title": "работа"
                 }
               }
             ]
@@ -125,7 +125,7 @@
             }
           },
           {
-            "id": "e9ececcee72cbb8c",
+            "id": "1d949410e2d2a2de",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "записьки/Тестирование SERP.md",
+                "file": "записьки/работа.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Тестирование SERP"
+              "title": "Структура работа"
             }
           },
           {
@@ -275,9 +275,9 @@
   },
   "active": "f86c1c35c742264a",
   "lastOpenFiles": [
+    "записьки/работа.md",
     "записьки/Тестирование SERP.md",
     "записьки/вложенные файлы/Pasted image 20251210124804.png",
-    "записьки/работа.md",
     "Тестирование SERP.md",
     "записьки/тестирование дороничи.md",
     "вложенные файлы/МОДУЛЬ 7. Каталог и поиск.md",

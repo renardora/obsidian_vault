@@ -40,8 +40,7 @@
   "expandedSpaces": [
     "/",
     "//notes",
-    "//записьки",
-    "//вложенные файлы"
+    "//записьки"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
